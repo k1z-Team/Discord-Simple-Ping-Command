@@ -28,7 +28,7 @@ A simple **Discord bot** that responds to the `/ping` command with the bot's cur
 
 3. **Run** the bot:
    ```bash
-   node bot.js
+   node main.js
    ```
 
 4. **Use** `/ping` to see the bot's ping! 🏓
