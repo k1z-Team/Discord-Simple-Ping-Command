@@ -39,7 +39,7 @@ A simple **Discord bot** that responds to the `/ping` command with the bot's cur
 This project is **open-source** under the **MIT License**. You can **use**, **modify**, and **distribute** it, but you **must provide credit** and **cannot claim it as your own**.
 
 ---
-🔗 **[View the Code](https://github.com/K1z-Team/Discord-Status-Bot)**
+🔗 **[View the Code](https://github.com/K1z-Team/Discord-Simple-Ping-Command-JavaScript)**
 
 Feel free to fork and use this bot for fun! 🎉🚀
 
